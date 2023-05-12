@@ -1,8 +1,8 @@
 # rUBC-NLP
 
-Checked the most common words and emojis in r/UBC's most controversial posts for the year 2022 and 2021
-After doing sentiment analysis on the posts's headlines and text, they are suprisingly positive. I suspect its because of sarcasm or self promotions. 
-In general, the most controversial posts come from first years and people who mention the free speech club.
+This project scapes r/UBC for it's most controversial posts for 2022 and 2021. Using NLP, we chart the most common words and emojis used. 
+We then study the sentiment of the posts using sentiment analysis and find that post sentiment overall is positive in the most controversial posts. 
+We suspect this is the case due to sarcastic and self promotional posts. In general, the most controversial posts come from first years and people who mention the free speech club.
 
 This is for 2022
 ![Most common phrases found in UBC 2022](https://user-images.githubusercontent.com/118032486/210268954-839e78e2-5ce9-4820-9907-52b03072ca0a.png)
